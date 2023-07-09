@@ -59,6 +59,7 @@
 
                 vim.api.nvim_command('nnoremap <Tab> >>')
                 vim.api.nvim_command('nnoremap <S-Tab> <<')
+                vim.api.nvim_command('imap <Enter> <C-y>')
 
             -- Insert
 
@@ -118,12 +119,12 @@
 
         -- Switching between buffers
 
-            vim.api.nvim_command('noremap <Space>1 <cmd> :BufferLineGoToBuffer 1 <CR>')
-            vim.api.nvim_command('noremap <Space>2 <cmd> :BufferLineGoToBuffer 2 <CR>')
-            vim.api.nvim_command('noremap <Space>3 <cmd> :BufferLineGoToBuffer 3 <CR>')
-            vim.api.nvim_command('noremap <Space>4 <cmd> :BufferLineGoToBuffer 4 <CR>')
-            vim.api.nvim_command('noremap <Space>5 <cmd> :BufferLineGoToBuffer 5 <CR>')
-            vim.api.nvim_command('noremap <Space>6 <cmd> :BufferLineGoToBuffer 6 <CR>')
-            vim.api.nvim_command('noremap <Space>7 <cmd> :BufferLineGoToBuffer 7 <CR>')
-            vim.api.nvim_command('noremap <Space>8 <cmd> :BufferLineGoToBuffer 8 <CR>')
-            vim.api.nvim_command('noremap <Space>9 <cmd> :BufferLineGoToBuffer 9 <CR>')
+            vim.api.nvim_command('noremap <Space>1 <cmd> :lua require\'bufferline\'.go_to_buffer(1, true) <CR>')
+            vim.api.nvim_command('noremap <Space>2 <cmd> :lua require\'bufferline\'.go_to_buffer(2, true) <CR>')
+            vim.api.nvim_command('noremap <Space>3 <cmd> :lua require\'bufferline\'.go_to_buffer(3, true) <CR>')
+            vim.api.nvim_command('noremap <Space>4 <cmd> :lua require\'bufferline\'.go_to_buffer(4, true) <CR>')
+            vim.api.nvim_command('noremap <Space>5 <cmd> :lua require\'bufferline\'.go_to_buffer(5, true) <CR>')
+            vim.api.nvim_command('noremap <Space>6 <cmd> :lua require\'bufferline\'.go_to_buffer(6, true) <CR>')
+            vim.api.nvim_command('noremap <Space>7 <cmd> :lua require\'bufferline\'.go_to_buffer(7, true) <CR>')
+            vim.api.nvim_command('noremap <Space>8 <cmd> :lua require\'bufferline\'.go_to_buffer(8, true) <CR>')
+            vim.api.nvim_command('noremap <Space>9 <cmd> :lua require\'bufferline\'.go_to_buffer(9, true) <CR>')
