@@ -6,6 +6,7 @@
     require("bufferline-config")
     require("comment-config")
     require("todo-comments-config")
+    -- require("trouble")
 
 -- GENERAL
 

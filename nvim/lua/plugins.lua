@@ -2,6 +2,7 @@
 
 return require('packer').startup(function()
     use 'wbthomason/packer.nvim'
+    -- use 'folke/trouble.nvim'
     use 'nvim-tree/nvim-web-devicons'
     use { 'nvim-tree/nvim-tree.lua', requires = 'nvim-tree/nvim-web-devicons' }
     use { 'neoclide/coc.nvim', branch = 'release' }
