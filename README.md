@@ -24,7 +24,9 @@ Hi, this is my second dotfiles repository, this time much more clean and less bl
 
 ### neovim
 
-- how to scroll documentation CoC
+- CoC
+    - how to scroll documentation
+    - ctrl + y thing
 - nvim tree
   - fixare il bug in apertura
   - nvim tree resets the width when closed and re-opened

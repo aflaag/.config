@@ -60,7 +60,6 @@
 
                 vim.api.nvim_command('nnoremap <Tab> >>')
                 vim.api.nvim_command('nnoremap <S-Tab> <<')
-                vim.api.nvim_command('imap <Enter> <C-y>')
 
             -- Insert
 
