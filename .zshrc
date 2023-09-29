@@ -1,13 +1,14 @@
-# Set env variable
+# Set env variables
 export ZSH="$HOME/.oh-my-zsh"
+export PATH="/home/aless/.cargo/bin:$PATH"
 
 # Theme
 ZSH_THEME="robbyrussell"
 
 # Plugins
 plugins=(
-	git
-	zsh-autosuggestions
+    git
+    zsh-autosuggestions
 )
 
 # Load oh-my-zsh

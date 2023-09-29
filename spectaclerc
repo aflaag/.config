@@ -4,3 +4,7 @@ freehandShadow=false
 
 [GuiConfig]
 window-position=463,328
+
+[Save]
+lastSaveAsLocation=file:///home/aless/Desktop/notes/automata/assets/LEVAMI2.png
+lastSaveLocation=file:///home/aless/Desktop/notes/automata/assets/LEVAMI2.png
