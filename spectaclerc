@@ -1,6 +1,7 @@
 [Annotations]
 annotationToolType=1
 freehandShadow=false
+freehandStrokeColor=93,52,255
 
 [GuiConfig]
 window-position=463,328
