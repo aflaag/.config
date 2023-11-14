@@ -1,8 +1,8 @@
-# My current dotfiles
+# My dotfiles
 
 ![wallpaper](OpMPCR0.png)
 
-Hi, this is my second dotfiles repository, this time much more clean and less bloated.
+This is my dotfiles repository.
 
 ## To fix
 
@@ -28,12 +28,14 @@ Hi, this is my second dotfiles repository, this time much more clean and less bl
     - how to scroll documentation
     - ctrl + y thing
 - nvim tree
-  - fixare il bug in apertura
+  - fixare il bug quando runni `nvim .`
   - nvim tree resets the width when closed and re-opened
 
 ### polybar
 
 - mic volume?
+- capire cosa succede quando collego il bluetooth
+    - sembra esplodere quando cambio il volume dopo aver connesso il bluetooth
 
 ### betterlockscreen
 

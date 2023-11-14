@@ -162,3 +162,11 @@ super + Print
 # Take a screenshot of a region
 super + alt + s
 	spectacle -bcr
+
+
+
+### ----- Others
+
+# Copy GitHub token
+ctrl + shift + g
+        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
