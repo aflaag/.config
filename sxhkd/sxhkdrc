@@ -169,4 +169,4 @@ super + alt + s
 
 # Copy GitHub token
 super + shift + g
-        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
+	echo "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" | tr -d '\n' | xclip -selection clipboard
