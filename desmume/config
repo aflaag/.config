@@ -1,0 +1,16 @@
+[KEYS]
+A=120
+B=0
+Select=110
+Start=109
+Right=100
+Left=97
+Up=119
+Down=115
+R=101
+L=113
+X=65361
+Y=0
+Debug=65362
+Boost=0
+Lid=65364

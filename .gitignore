@@ -1,28 +1,11 @@
 # Whole
 
-/autostart
-/btop
-/cava
-/coc
 /Code
-/dconf
-/desmume
-/discord
 /GIMP
 /gtk-2.0
 /gtk-3.0
-/htop
-/kde.org
-/matplotlib
-/obsidian
-/procps
-/Ride-4.5
 /Ryujinx
-/systemd
-/vlc
 /whoozle.github.io
-/xfce4
-/xpad
 /yarn
 
 # Partial
