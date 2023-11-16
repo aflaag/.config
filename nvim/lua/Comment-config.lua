@@ -7,3 +7,8 @@ require('Comment').setup({
         block = 'fc',
     },
 })
+
+local ft = require('Comment.ft')
+
+ft
+    .set('sml', {'(*%s*)', '(*%s*)'})

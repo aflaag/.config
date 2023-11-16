@@ -4,7 +4,7 @@
     require("nvim-tree-config")
     require("gitsigns-config")
     require("bufferline-config")
-    require("comment-config")
+    require("Comment-config")
     require("todo-comments-config")
     -- require("trouble")
 
