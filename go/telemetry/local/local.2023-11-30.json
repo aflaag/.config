@@ -1,0 +1,35 @@
+{
+ "Week": "2023-11-30",
+ "LastWeek": "",
+ "X": 0.43930905421117017,
+ "Programs": [
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "v0.14.2",
+   "GoVersion": "go1.21.4",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "counter/main": 32,
+    "gopls/client:vscode": 12,
+    "gopls/completion/latency:\u003c100ms": 2,
+    "gopls/completion/latency:\u003c10ms": 7645,
+    "gopls/completion/latency:\u003c200ms": 20,
+    "gopls/completion/latency:\u003c500ms": 4,
+    "gopls/completion/latency:\u003c50ms": 1844,
+    "gopls/definition/error-latency:\u003c10ms": 5,
+    "gopls/definition/latency:\u003c10ms": 301,
+    "gopls/definition/latency:\u003c50ms": 2,
+    "gopls/goversion:1.21": 43,
+    "gopls/hover/latency:\u003c10ms": 1681,
+    "gopls/references/latency:\u003c10ms": 31,
+    "gopls/references/latency:\u003c50ms": 1
+   },
+   "Stacks": {
+    "gopls/bug\ngolang.org/x/tools/gopls/internal/bug.report:35\ngolang.org/x/tools/gopls/internal/bug.Errorf:2\ngolang.org/x/tools/gopls/internal/lsp/source.Definition:86\ngolang.org/x/tools/gopls/internal/lsp.(*Server).definition:19\ngolang.org/x/tools/gopls/internal/lsp.(*Server).Definition:1\ngolang.org/x/tools/gopls/internal/lsp/protocol.serverDispatch:192\ngolang.org/x/tools/gopls/internal/lsp/lsprpc.(*StreamServer).ServeStream.ServerHandler.func3:5\ngolang.org/x/tools/gopls/internal/lsp/lsprpc.(*StreamServer).ServeStream.handshaker.func4:52\ngolang.org/x/tools/gopls/internal/lsp/protocol.Handlers.MustReplyHandler.func1:2\ngolang.org/x/tools/gopls/internal/lsp/protocol.Handlers.AsyncHandler.func2.2:3\nruntime.goexit:0": 2,
+    "gopls/bug\ngolang.org/x/tools/gopls/internal/bug.report:35\ngolang.org/x/tools/gopls/internal/bug.Errorf:2\ngolang.org/x/tools/gopls/internal/lsp/source.SignatureHelp:72\ngolang.org/x/tools/gopls/internal/lsp.(*Server).signatureHelp:9\ngolang.org/x/tools/gopls/internal/lsp.(*Server).SignatureHelp:1\ngolang.org/x/tools/gopls/internal/lsp/protocol.serverDispatch:490\ngolang.org/x/tools/gopls/internal/lsp/lsprpc.(*StreamServer).ServeStream.ServerHandler.func3:5\ngolang.org/x/tools/gopls/internal/lsp/lsprpc.(*StreamServer).ServeStream.handshaker.func4:52\ngolang.org/x/tools/gopls/internal/lsp/protocol.Handlers.MustReplyHandler.func1:2\ngolang.org/x/tools/gopls/internal/lsp/protocol.Handlers.AsyncHandler.func2.2:3\nruntime.goexit:0": 4
+   }
+  }
+ ],
+ "Config": "v0.9.0"
+}
