@@ -33,9 +33,8 @@ This is my dotfiles repository.
 
 ### polybar
 
-- mic volume?
-- capire cosa succede quando collego il bluetooth
-    - sembra esplodere quando cambio il volume dopo aver connesso il bluetooth
+- fixare caratteri giapponesi
+- mic cuffie?
 
 ### betterlockscreen
 
