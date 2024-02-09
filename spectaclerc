@@ -1,12 +1,12 @@
 [Annotations]
 annotationToolType=1
 freehandShadow=false
-freehandStrokeColor=64,230,255
+freehandStrokeColor=29,108,255
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 
 [GuiConfig]
 window-position=463,328
 
 [Save]
-lastSaveAsLocation=file:///home/aless/Desktop/notes/automata/assets/grammar_tree.png
-lastSaveLocation=file:///home/aless/Desktop/notes/automata/assets/grammar_tree.png
+lastSaveAsLocation=file:///home/aless/Desktop/iscrizione.png
+lastSaveLocation=file:///home/aless/Desktop/iscrizione.png
