@@ -6,14 +6,6 @@ This is my dotfiles repository.
 
 ## To fix
 
-### htop
-
-- theme?
-
-### btop
-
-- theme?
-
 ### sddm
 
 - theme?
@@ -30,11 +22,6 @@ This is my dotfiles repository.
 - nvim tree
   - fixare il bug quando runni `nvim .`
   - nvim tree resets the width when closed and re-opened
-
-### polybar
-
-- fixare caratteri giapponesi
-- mic cuffie?
 
 ### betterlockscreen
 
