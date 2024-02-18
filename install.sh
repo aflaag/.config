@@ -15,6 +15,11 @@ localectl set-x11-keymap it
 #   - wget
 sudo pacman -S base-devel linux-headers alsa-utils xf86-video-amdgpu xorg-server xorg-xinit xorg-xrandr git curl sudo wget
 
+# setup for:
+#   - git
+git config --global user.name "aflaag"
+git config --global user.email "alessio.bandiera02@gmail.com"
+
 # install for:
 #   - paru
 git clone https://aur.archlinux.org/paru.git
@@ -39,6 +44,7 @@ pakepkg -si
 #   - kitty
 #   - nitrogen
 #   - Neovim
+#   - PulseAudio Volume Control
 #   - PipeWire
 #   - Polybar
 #   - Python (and libraries)
@@ -56,11 +62,12 @@ pakepkg -si
 #   - Timeshift
 #   - unrar
 #   - unzip
+#   - Visual Studio Code
 #   - VLC
 #   - xclip
 #   - xcolor
 #   - zathura (and dependencies)
-paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop droidcam dunst firefox gimp gnome-keyring htop icu69-bin jre-openjdk kitty nitrogen neovim pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polybar python python-aiohttp python-pillow python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift unrar unzip v4l2loopback-dkms vlc xclip xcolor zathura zathura-pdf-mupdf
+paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop code droidcam dunst firefox gimp gnome-keyring htop icu69-bin jre-openjdk kitty nitrogen neovim pavucontrol pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polybar python python-aiohttp python-pillow python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift unrar unzip v4l2loopback-dkms vlc xclip xcolor zathura zathura-pdf-mupdf
 
 # install for:
 #   - Oh My Zsh
@@ -79,3 +86,9 @@ sudo systemctl enable sddm.service
 #     - NotoColorEmoji font (https://fonts.google.com/noto/specimen/Noto+Color+Emoji)
 #     - NotoSansJP font (https://fonts.google.com/noto/specimen/Noto+Sans+JP)
 fc-cache -fv
+
+# install for:
+#   - .config
+cd ~
+rm -rf .config
+git clone https://github.com/aflaag/.config
