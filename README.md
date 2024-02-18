@@ -23,10 +23,6 @@ This is my dotfiles repository.
   - fixare il bug quando runni `nvim .`
   - nvim tree resets the width when closed and re-opened
 
-### betterlockscreen
-
-- setup on suspension
-
 ### pulse
 
 - controlla se puoi silurare la cartella, credo de si?

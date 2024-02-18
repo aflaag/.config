@@ -15,11 +15,6 @@ localectl set-x11-keymap it
 #   - wget
 sudo pacman -S base-devel linux-headers alsa-utils xf86-video-amdgpu xorg-server xorg-xinit xorg-xrandr git curl sudo wget
 
-# setup for:
-#   - git
-git config --global user.name "aflaag"
-git config --global user.email "alessio.bandiera02@gmail.com"
-
 # install for:
 #   - paru
 git clone https://aur.archlinux.org/paru.git
@@ -77,10 +72,6 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 #   - Zsh Autosuggestions for Zsh
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
-# enable for:
-#    - SDDM
-sudo systemctl enable sddm.service
-
 # install for:
 #     - CaskaydiaCove Nerd font (https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.zip)
 #     - NotoColorEmoji font (https://fonts.google.com/noto/specimen/Noto+Color+Emoji)
@@ -92,3 +83,20 @@ fc-cache -fv
 cd ~
 rm -rf .config
 git clone https://github.com/aflaag/.config
+
+# setup for:
+#   - git
+git config --global user.name "aflaag"
+git config --global user.email "alessio.bandiera02@gmail.com"
+
+# setup for:
+#    - SDDM
+sudo systemctl enable sddm.service
+
+# setup for:
+#   - bluetooth
+systemctl enable bluetooth.service
+
+# fix for:
+#   - Tex Live
+sudo fmtutil-sys --all

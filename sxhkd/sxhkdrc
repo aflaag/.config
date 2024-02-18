@@ -80,9 +80,13 @@ alt + shift + {Left,Down,Up,Right}
 XF86Audio{RaiseVolume,LowerVolume}
         pamixer --sink alsa_output.pci-0000_1e_00.3.analog-stereo {-i,-d} 5
 
-#XF86AudioMute
-#	amixer set Master toggle
+# Mute and unmute 
+XF86AudioMute
+    amixer set Master toggle
 
+# Suspend
+super + alt + l
+    betterlockscreen -l & sleep 0.5 && systemctl suspend
 
 
 ### ----- Dunst
@@ -131,10 +135,6 @@ ctrl + shift + 2
 
 ### ----- Misc shortcuts
 
-# Open spotify
-super + s
-	spotify
-
 # Open firefox
 super + shift + f
 	firefox
@@ -150,10 +150,6 @@ super + alt + c
 # Open terminal
 super + Return
 	kitty
-
-# Open lockscreen
-super + alt + l
-    betterlockscreen --lock blur
 
 # Take a screenshot
 super + Print
