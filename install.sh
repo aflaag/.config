@@ -100,3 +100,7 @@ systemctl enable bluetooth.service
 # fix for:
 #   - Tex Live
 sudo fmtutil-sys --all
+
+# install for:
+    #   - pokemon-icat
+git clone https://github.com/aflaag/pokemon-icat && cd pokemon-icat && sh ./install.sh
