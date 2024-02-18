@@ -26,6 +26,8 @@ separator-foreground = ${colors.disabled}
 
 font-0 = CaskaydiaCove Nerd Font;2
 font-1 = Cantarell;2
+font-2 = NotoColorEmoji:scale=10;1
+font-3 = NotoSansJP;2
 
 modules-left = xworkspaces xwindow
 modules-right = cpu_temp gpu_temp memory volume date
