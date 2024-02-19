@@ -84,9 +84,14 @@ XF86Audio{RaiseVolume,LowerVolume}
 XF86AudioMute
     amixer set Master toggle
 
-# Suspend
+# Lock screen
 super + alt + l
+    betterlockscreen -l
+
+# Suspend
+super + alt + L
     betterlockscreen -l & sleep 0.5 && systemctl suspend
+
 
 
 ### ----- Dunst
