@@ -6,10 +6,7 @@ export PATH="/home/aless/.cargo/bin:$PATH"
 ZSH_THEME="robbyrussell"
 
 # Plugins
-plugins=(
-    git
-    zsh-autosuggestions
-)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 # Load oh-my-zsh
 source $ZSH/oh-my-zsh.sh
