@@ -8,7 +8,11 @@ This is my dotfiles repository.
 
 ### general
 
-- put the arch installing process inside install.sh
+- check if the file i'm saving are truly useful
+
+### install.sh
+
+- put the arch installing process
 - check if there are other steps i am missing
 
 ### sddm
