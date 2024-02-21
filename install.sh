@@ -82,6 +82,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 #     - CaskaydiaCove Nerd font (https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.zip)
 #     - NotoColorEmoji font (https://fonts.google.com/noto/specimen/Noto+Color+Emoji)
 #     - NotoSansJP font (https://fonts.google.com/noto/specimen/Noto+Sans+JP)
+#     (folder: /usr/local/share/fonts)
 fc-cache -fv
 
 # install for:
