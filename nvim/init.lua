@@ -6,7 +6,6 @@
     require("bufferline-config")
     require("Comment-config")
     require("todo-comments-config")
-    -- require("trouble")
 
 -- GENERAL
 
@@ -97,10 +96,9 @@
 
     -- Mappings
 
-        vim.api.nvim_command('noremap tt :NvimTreeToggle <CR>')
+        vim.api.nvim_command('noremap tt :NvimTreeToggle <CR>:vertical resize 35 <CR>')
         vim.api.nvim_command('noremap tf :NvimTreeFindFile <CR>')
         vim.api.nvim_command('noremap tr :NvimTreeRefresh <CR>')
-        vim.api.nvim_command('noremap tg :wincmd p <CR>')
 
     -- Settings
 

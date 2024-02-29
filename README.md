@@ -30,5 +30,4 @@ This is my dotfiles repository.
     - ctrl + y thing
 - nvim tree
   - fixare il bug quando runni `nvim .`
-  - nvim tree resets the width when closed and re-opened
 
