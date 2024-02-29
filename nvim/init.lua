@@ -96,7 +96,7 @@
 
     -- Mappings
 
-        vim.api.nvim_command('noremap tt :NvimTreeToggle <CR>:vertical resize 35 <CR>')
+        vim.api.nvim_command('noremap tt :NvimTreeToggle <CR>')
         vim.api.nvim_command('noremap tf :NvimTreeFindFile <CR>')
         vim.api.nvim_command('noremap tr :NvimTreeRefresh <CR>')
 

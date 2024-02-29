@@ -35,5 +35,6 @@ This is my dotfiles repository.
     - how to scroll documentation
     - ctrl + y thing
 - nvim tree
-  - fixare il bug quando runni `nvim .`
+    - can't run `nvim [FOLDER]`
+    - when opening new buffers nvim-tree doesn't preserve default width
 

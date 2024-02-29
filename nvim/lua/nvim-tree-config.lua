@@ -1,7 +1,7 @@
 require("nvim-tree").setup({
     view = {
         side = "left",
-        width = 40,
+        width = 35,
         number = true,
         relativenumber = true,
         preserve_window_proportions = true,
@@ -25,9 +25,4 @@ require("nvim-tree").setup({
     git = {
         ignore = false,
     },
-    actions = {
-        open_file = {
-            resize_window = false,
-        }
-    }
 })
