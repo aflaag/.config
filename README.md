@@ -8,6 +8,7 @@ This is my dotfiles repository.
 
 ### general
 
+- USE GITHUB SUBMODULES WHICH SEEM SUPER COOL
 - check if the file i'm saving are truly useful
 
 ### install.sh
@@ -25,6 +26,11 @@ This is my dotfiles repository.
 
 ### neovim
 
+- general
+    - cool buffer switch
+    - check neovim config from the beginning again
+- treesitter
+    - maybe set it up?
 - CoC
     - how to scroll documentation
     - ctrl + y thing
