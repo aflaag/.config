@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/home/aless/.local/share/nvim/site/pack/packer/start/coc.nvim",
     url = "https://github.com/neoclide/coc.nvim"
   },
+  fzf = {
+    loaded = true,
+    path = "/home/aless/.local/share/nvim/site/pack/packer/start/fzf",
+    url = "https://github.com/junegunn/fzf"
+  },
   ["fzf.vim"] = {
     loaded = true,
     path = "/home/aless/.local/share/nvim/site/pack/packer/start/fzf.vim",

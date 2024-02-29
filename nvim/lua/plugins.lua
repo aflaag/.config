@@ -9,7 +9,8 @@ return require('packer').startup(function()
     use 'vim-airline/vim-airline-themes'
     use 'ap/vim-css-color'
     use 'morhetz/gruvbox'
-    use 'junegunn/fzf.vim'
+    use { 'junegunn/fzf', run = ":call fzf#install()" }
+    use { 'junegunn/fzf.vim' }
     use { 'mg979/vim-visual-multi', branch = 'master' }
     use 'lewis6991/gitsigns.nvim'
     use { 'akinsho/bufferline.nvim', tag = "v2.*", requires = 'nvim-tree/nvim-web-devicons' }
