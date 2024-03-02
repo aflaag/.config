@@ -39,4 +39,3 @@ This is my dotfiles repository.
 - nvim tree
     - can't run `nvim [FOLDER]`
     - when opening new buffers nvim-tree doesn't preserve default width
-
