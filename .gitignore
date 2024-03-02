@@ -13,7 +13,6 @@
 # Partial
 
 /kitty/kitty.conf.bak
-/nvim/plugin
 arkrc
 droidcam
 kglobalshortcutsrc
