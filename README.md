@@ -8,7 +8,6 @@ This is my dotfiles repository.
 
 ### general
 
-- USE GITHUB SUBMODULES WHICH SEEM SUPER COOL
 - check if the file i'm saving are truly useful
 
 ### install.sh
