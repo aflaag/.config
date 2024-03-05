@@ -21,6 +21,8 @@ This is my dotfiles repository.
 
 ### install.sh
 
+- consider adding zoxide (after testing it for a bit)
+
 - put the arch installing process
 - check if there are other steps i am missing
 
