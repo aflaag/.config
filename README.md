@@ -1,6 +1,6 @@
 # My dotfiles
 
-![wallpaper](OpMPCR0.png)
+![wallpaper](wallpaper.png)
 
 This is my dotfiles repository.
 
