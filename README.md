@@ -1,8 +1,8 @@
 # My dotfiles
 
-![wallpaper](wallpaper.png)
-
 This is my dotfiles repository.
+
+![wallpaper](wallpaper.png)
 
 ## To fix
 
@@ -20,8 +20,6 @@ This is my dotfiles repository.
 - fix Noto Color Emoji
 
 ### install.sh
-
-- consider adding zoxide (after testing it for a bit)
 
 - put the arch installing process
 - check if there are other steps i am missing

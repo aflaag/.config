@@ -83,7 +83,8 @@ pakepkg -si
 #   - xcolor
 #   - xpad
 #   - zathura (and dependencies)
-paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop code droidcam dunst dust firefox gimp github-cli gnome-keyring htop icu69-bin jre-openjdk kitty nitrogen neovim nodejs pavucontrol pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polybar python python-aiohttp python-pillow python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift tldr unrar unzip v4l2loopback-dkms vlc xclip xcolor xpad zathura zathura-pdf-mupdf
+#   - zoxide
+paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop code droidcam dunst dust firefox gimp github-cli gnome-keyring htop icu69-bin jre-openjdk kitty nitrogen neovim nodejs pavucontrol pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polybar python python-aiohttp python-pillow python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift tldr unrar unzip v4l2loopback-dkms vlc xclip xcolor xpad zathura zathura-pdf-mupdf zoxide
 
 ########## SYSTEMCTL ##########
 
