@@ -1,12 +1,18 @@
 [Annotations]
 annotationToolType=1
 freehandShadow=false
-freehandStrokeColor=238,255,131
+freehandStrokeColor=49,255,135
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 
 [GuiConfig]
 window-position=463,328
 
+[ImageSave]
+translatedScreenshotsFolder=Schermate
+
 [Save]
 lastSaveAsLocation=file:///home/aless/Screenshot_20240301_195447.png
 lastSaveLocation=file:///home/aless/Screenshot_20240301_195447.png
+
+[VideoSave]
+translatedScreencastsFolder=Screencast
