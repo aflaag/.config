@@ -1,7 +1,8 @@
 [Annotations]
 annotationToolType=1
 freehandShadow=false
-freehandStrokeColor=49,255,135
+freehandStrokeColor=88,227,255
+highlighterStrokeColor=21,173,255
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 
 [GuiConfig]
