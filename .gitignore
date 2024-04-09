@@ -1,16 +1,22 @@
 # Whole
 
 /dconf
+/coc
+/cocOLD
 /Code
+/fontforge
 /GIMP
 /gtk-2.0
 /gtk-3.0
+/ghc
+/ghcOLD
+/go
 /Ryujinx
+/VirtualBox
+/vlc
+/vlcOLD
 /whoozle.github.io
 /yarn
-/go
-/VirtualBox
-/fontforge
 
 # Partial
 
