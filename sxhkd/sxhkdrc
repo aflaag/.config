@@ -130,12 +130,6 @@ ctrl + shift + z
 ctrl + shift + x
 	echo ">" | tr -d '\n' | xclip -selection clipboard
 
-ctrl + shift + 1
-	echo "\`" | tr -d '\n' | xclip -selection clipboard
-
-ctrl + shift + 2
-	echo "~" | tr -d '\n' | xclip -selection clipboard
-
 
 
 ### ----- Misc shortcuts
