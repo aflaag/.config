@@ -123,12 +123,8 @@ super + d
 
 
 ### ----- Missing Keys
+# THIS IS THE CODE FOR MISSING KEYS echo "<" | tr -d '\n' | xclip -selection clipboard
 
-ctrl + shift + z
-	echo "<" | tr -d '\n' | xclip -selection clipboard
-
-ctrl + shift + x
-	echo ">" | tr -d '\n' | xclip -selection clipboard
 
 
 
