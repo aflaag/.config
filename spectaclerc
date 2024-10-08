@@ -1,16 +1,24 @@
 [Annotations]
 annotationToolType=2
+arrowShadow=false
+ellipseStrokeColor=255,0,4
+ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=58,160,255
+freehandStrokeColor=125,74,255
 highlighterStrokeColor=21,173,255
+lineShadow=false
+lineStrokeColor=0,0,0
+rectangleFillColor=255,255,255
+rectangleShadow=false
+rectangleStrokeColor=255,255,255,0
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 
 [GuiConfig]
 window-position=463,328
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/aless/pokemon-icat/screenshot.png
-lastImageSaveLocation=file:///home/aless/pokemon-icat/screenshot.png
+lastImageSaveAsLocation=file:///home/aless/Desktop/notes/machine-learning/assets/confusion.png
+lastImageSaveLocation=file:///home/aless/Desktop/notes/machine-learning/assets/confusion.png
 translatedScreenshotsFolder=Schermate
 
 [Save]
