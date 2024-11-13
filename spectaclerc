@@ -4,7 +4,7 @@ arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=125,74,255
+freehandStrokeColor=116,172,255
 highlighterStrokeColor=21,173,255
 lineShadow=false
 lineStrokeColor=0,0,0
@@ -17,8 +17,8 @@ textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 window-position=463,328
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/aless/Desktop/notes/machine-learning/assets/confusion.png
-lastImageSaveLocation=file:///home/aless/Desktop/notes/machine-learning/assets/confusion.png
+lastImageSaveAsLocation=file:///home/aless/bsc-thesis/assets/genome.png
+lastImageSaveLocation=file:///home/aless/bsc-thesis/assets/genome.png
 translatedScreenshotsFolder=Schermate
 
 [Save]
