@@ -4,21 +4,21 @@ arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=116,172,255
-highlighterStrokeColor=21,173,255
+freehandStrokeColor=242,56,255
+highlighterStrokeColor=55,255,78
 lineShadow=false
-lineStrokeColor=0,0,0
-rectangleFillColor=255,255,255
+rectangleFillColor=155,255,218
 rectangleShadow=false
 rectangleStrokeColor=255,255,255,0
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
+textFontColor=55,255,248
 
 [GuiConfig]
 window-position=463,328
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/aless/bsc-thesis/assets/genome.png
-lastImageSaveLocation=file:///home/aless/bsc-thesis/assets/genome.png
+lastImageSaveAsLocation=file:///home/aless/Desktop/notes/network-algs/assets/tanglegram.png
+lastImageSaveLocation=file:///home/aless/Desktop/notes/network-algs/assets/tanglegram.png
 translatedScreenshotsFolder=Schermate
 
 [Save]
