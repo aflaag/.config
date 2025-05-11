@@ -1,11 +1,12 @@
 [Annotations]
-annotationToolType=4
+annotationToolType=2
 arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=242,56,255
-highlighterStrokeColor=55,255,78
+freehandStrokeColor=207,152,43
+highlighterStrokeColor=255,56,235
+highlighterStrokeWidth=3
 lineShadow=false
 lineStrokeColor=0,176,80
 lineStrokeWidth=7
