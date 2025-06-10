@@ -4,7 +4,7 @@ arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=207,152,43
+freehandStrokeColor=207,113,59
 highlighterStrokeColor=255,56,235
 highlighterStrokeWidth=3
 lineShadow=false
@@ -20,8 +20,8 @@ textFontColor=55,255,248
 window-position=463,328
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/aless/Desktop/notes/network-algs/assets/blossom_node_disj.png
-lastImageSaveLocation=file:///home/aless/Desktop/notes/network-algs/assets/blossom_node_disj.png
+lastImageSaveAsLocation=file:///home/aless/Desktop/notes/logic-cs/assets/Am.png
+lastImageSaveLocation=file:///home/aless/Desktop/notes/logic-cs/assets/Am.png
 translatedScreenshotsFolder=Schermate
 
 [Save]
