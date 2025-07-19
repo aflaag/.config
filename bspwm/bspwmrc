@@ -16,4 +16,5 @@ exec nitrogen --restore & # restore background
 exec sct 3800 & # set yellow filter
 exec picom & # run compositor
 exec polybar --config=$HOME/.config/polybar/config & # run polybar
-exec dunst # run dunst
+exec dunst & # run dunst
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 # run polkit agent
