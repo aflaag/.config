@@ -55,6 +55,7 @@ pakepkg -si
 #   - icu69-bin (fix for Visual Studio Code)
 #   - Java
 #   - kitty
+#   - MPV
 #   - nitrogen
 #   - Neovim
 #   - nodejs
@@ -85,7 +86,7 @@ pakepkg -si
 #   - xcolor
 #   - zathura (and dependencies)
 #   - zoxide
-paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop code droidcam dunst dust firefox gimp github-cli gnome-keyring htop icu69-bin jre-openjdk kitty nitrogen neovim nodejs pavucontrol pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polkit-gnome polybar python python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift tldr unrar unzip v4l2loopback-dkms vlc xboxdrv xclip xcolor xpad zathura zathura-pdf-mupdf zoxide
+paru -S archlinux-keyring ark bat betterlockscreen bluez bluez-utils bspwm btop code droidcam dunst dust firefox gimp github-cli gnome-keyring htop icu69-bin jre-openjdk kitty mpv nitrogen neovim nodejs pavucontrol pipewire-alsa pipewire-cli pipewire-media-session pipewire-pulse polkit-gnome polybar python python-pip python-wheel ripgrep ristretto rofi rustup sddm spectacle speedcrunch sxhkd telegram-desktop texlive-basic texlive-bibtexextra texlive-fontsrecommended texlive-fontsextra texlive-latex texlive-langitalian texlive-mathscience texlive-meta thunar timeshift tldr unrar unzip v4l2loopback-dkms vlc xboxdrv xclip xcolor xpad zathura zathura-pdf-mupdf zoxide
 
 ########## SYSTEMCTL ##########
 
