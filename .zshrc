@@ -17,5 +17,5 @@ alias rm="rm -i"
 
 eval "$(zoxide init --cmd cd zsh)"
 
-# Splash screen on startup
-$HOME/.cache/pokemon-icat/pokemon-icat # pokemon-icat: https://github.com/aflaag/pokemon-icat
+source ~/.profile
+pokemon-icat # https://github.com/aflaag/pokemon-icat
