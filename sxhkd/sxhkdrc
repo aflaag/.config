@@ -120,6 +120,9 @@ super + shift + d
 super + d
         rofi -show drun
 
+super + alt + e
+        rofimoji --action copy --skin-tone light
+
 
 
 ### ----- Missing Keys
