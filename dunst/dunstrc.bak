@@ -1,0 +1,23 @@
+[global]
+    font = Monospace 10
+    geometry = 300x50+10+50
+    format = %s\n%b
+    transparency = 0
+    frame_color = "#888888"
+    progress_bar = true
+
+[urgency_low]
+    background = "#222222"
+    foreground = "#888888"
+    timeout = 5
+
+[urgency_normal]
+    background = "#32302f"
+    foreground = "#ffffff"
+    timeout = 5
+
+[urgency_critical]
+    background = "#900000"
+    foreground = "#ffffff"
+    timeout = 0
+

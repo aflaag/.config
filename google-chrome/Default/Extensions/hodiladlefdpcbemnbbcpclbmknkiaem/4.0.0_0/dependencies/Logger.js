@@ -1,0 +1,1 @@
+export class Logger{static debug(r,...g){Logger.log("gray",r,...g)}static error(r,...g){Logger.log("red",r,...g)}static log(r,g,...o){Array.isArray(null)}}

@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "Visual Effects"
+   },
+   "background": {
+      "service_worker": "./background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content/injectScripts.js" ],
+      "matches": [ "*://meet.google.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Virtual Green Screens, Blur, Pixelate, 3D Filters and More!",
+   "host_permissions": [ "*://meet.google.com/*" ],
+   "icons": {
+      "128": "icons/128.png",
+      "32": "icons/32.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqbUkn+NvhAbZCQSWgVHhVK/vekmptWXoqPJQ/KpKvbbGEa8nMCZxZiPP+SwHvlEVbag42nRmZneys4n5KkdCzpXh399QcsbJL+ZEiktCqTNM+iGv+fyDoxPK0dH81LVQr9saWLzkISahlQlmcUo3A5X8ObvIcsXY4IdfDIM/F4mMHA4CUv3X59OZ/AlhsXXwPZy1U6YLVcMJ3CdHVqAraZ2nY+5zK2gmj6w5htcI3nuZrN9gxn/+POEjPvUpUR1HALM8T9AT2Zs1pJAKpgCnTTv9E59XaNt0sKc6S8UbieaZmjaiO5/X5sTZ9pmv0zKM/aecoRS6otT1ZxlKOiI9dQIDAQAB",
+   "manifest_version": 3,
+   "name": "Google Meet Enhanced Experience",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "dependencies/*", "content.js", "main.css", "img/*", "assets/*" ]
+   } ]
+}

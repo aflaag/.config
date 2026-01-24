@@ -11,7 +11,7 @@
     origin = top-right
     offset = (12, 44)
     scale = 0
-    notification_limit = 0
+    # notification_limit = 0
 
     ### Progress bar ###
 

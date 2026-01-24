@@ -4,7 +4,7 @@ arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=207,113,59
+freehandStrokeColor=207,48,33
 highlighterStrokeColor=255,56,235
 highlighterStrokeWidth=3
 lineShadow=false
@@ -21,7 +21,7 @@ window-position=463,328
 
 [ImageSave]
 lastImageSaveAsLocation=file:///home/aless/Desktop/notes/logic-cs/assets/Am.png
-lastImageSaveLocation=file:///home/aless/Desktop/notes/logic-cs/assets/Am.png
+lastImageSaveLocation=file:///home/aless/regalo.png
 translatedScreenshotsFolder=Schermate
 
 [Save]

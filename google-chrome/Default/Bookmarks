@@ -1,0 +1,53 @@
+{
+   "checksum": "28cabeff8ac5566005efe8aa16536701",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13407883937463889",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra dei preferiti",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13407883937463889",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Altri preferiti",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13101832696628418",
+            "date_last_used": "0",
+            "guid": "315e400d-b8cf-45a2-8984-d8431dd00f81",
+            "id": "5",
+            "name": "Clash Royale: La Sequenza del Baule Super Magico e Baule Gigante | DragoNetwork",
+            "type": "url",
+            "url": "http://www.dragonetwork.it/sequenza-baule-super-magico/"
+         }, {
+            "date_added": "13107093863884420",
+            "date_last_used": "0",
+            "guid": "c2e70340-1c27-4cb4-9b07-68ebf6301049",
+            "id": "6",
+            "name": "a team - Cerca con Google",
+            "type": "url",
+            "url": "https://www.google.it/search?q=a+team&oq=a+team&aqs=chrome..69i57j0l3.5704j0j4&sourceid=chrome-mobile&ie=UTF-8"
+         } ],
+         "date_added": "13407883937463889",
+         "date_last_used": "0",
+         "date_modified": "13107093863884420",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Preferiti mobile",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CswCCqsCCIiBAhKkAiAAkgGPAgqMAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ5oxC/M9DBgAR5oxC/M9DBgAiNAkIeRr8z0MGABADGZ6yNBJCtivIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkIeRr8z0MGABADGZ6yNBJCtivIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkIeRr8z0MGABADGZ6yNBJCtivIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkIeRr8z0MGABADGZ6yNBJCtivIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpEL5C/M9DBgDqAQwI/YPuyAYQ8L2c7AISACoYZTJvT215TWg4dUxYWWJ3RzRqQkd4dz09SAMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4T1hZZGtjeGRrN2Z6UWxlckM3UVJCQ05JZTlOaGxScGYzaXo2NnBQcmpHeDl1NDBQYVU3MWY0MEFMZjZ2QSt4dWJ6cHlsTkVwZm1zM2FiNFVlL0YwdUpEMW1BUT09GAAgACgAMIjy6eD/+ZADOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASrAIIBRKnAgocUFBWTzlxekdCZnpVckMyQ2I5cC9hYUNUbGxvPRKmAVo6QURxdEFaeXJoMXNhSDNpUThZWmRDTHBOcUR6bjRiYWNKM1VwYkxRYWh5WnhIU1hseEx3OGE2aW12cjY4aDRUeDFNbFJnYytvcHB3VmREYk5vZ2pzaWFzMXBIN1VFVlNaL1lMMUJFSzlmTnFOQVBVR2V3M0dqb0doRjQ3eVgwM2J4ckZHZ2M2d0RhTWdIdVpmUXJ1blVHTTFYNGZUV0tEVHpnPT0YACAAKAAwx4bYsY3/8wI4vJb8irUqQLyW/Iq1KkocL29rNlEyaFZOTmZTYjYxQVpWUUdXOGdzNzJZPVoeIhw5NU94OTVINUpUc2V6dThVRWxzcHllN01yTEk9ZSYDVYMSrAIIBhKnAgoccFVQU2xGbnpqWThza291akVuY2V4aWZiK1lVPRKmAVo6QURxdEFaeXJoMXNhSDNpUThZWmRDTHBOcUR6blIrNk1UZGZsckJ5RUxpQ2tLSWY3NnY3eTlYdmdRdzRTMk5TR21TeVU1U1Fvb0pGKy81TjdEZ0Jab3NZVXphQkNoM1VpOHZMSXVKdlBmc1kwN1B2RCs2Q0VEelJZZVpHcFBQOWt1NlplQkRDbEJNTGEvWExLMXNJaWpiK2VMWGVDTjF6NGhnPT0YACAAKAAwx4bYsY3/8wI466zY18gqQOus2NfIKkocVWpvOVNWeC9NR0JpcFY1UnZWMS9nY044N3ZVPVoeIhxESk1ISVYwSFoyOUMvOXk4cTZZVldJUkdoVms9ZVhbEtASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6TXRMQWU1bWRVM1l5Z0t2dDlhcEZlbm1MTWxYQmpmd3hOV1k5VDAvdXJ6M2RERkkvYjcwWWZQb1ZndGRrQjhGUi9hbC9qZmFyWkFpbmdEck5nQi8yWnZtTzhCdz09GAAgACgAMIjy6eD/+ZADOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4ZlNFb1BBRHdWOW1FSEJTTmphMklMOW55NG92WllsMFp1SFFpTjdORFB1a1ZScUhwRDBnU2VsYlJvOXJ6MGt4dTNKVGFCGAAgACgAMIjy6eD/+ZADOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}
