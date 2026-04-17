@@ -1,20 +1,23 @@
 [Annotations]
-annotationToolType=2
+annotationToolType=3
 arrowShadow=false
 ellipseStrokeColor=255,0,4
 ellipseStrokeWidth=10
 freehandShadow=false
-freehandStrokeColor=47,103,207
-highlighterStrokeColor=107,151,255
+freehandStrokeColor=96,206,140
+highlighterStrokeColor=173,102,255
 highlighterStrokeWidth=3
 lineShadow=false
 lineStrokeColor=0,176,80
 lineStrokeWidth=7
-rectangleFillColor=255,255,255
+rectangleFillColor=29,31,32
 rectangleShadow=false
-rectangleStrokeColor=255,255,255,0
+rectangleStrokeColor=29,31,32
 textFont=Sans Serif,36,-1,5,50,0,0,0,0,0
 textFontColor=55,255,248
+
+[General]
+ocrLanguages=afr
 
 [GuiConfig]
 window-position=463,328
